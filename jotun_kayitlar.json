@@ -1,5 +1,49 @@
 [
   {
+  "ral_no": "1021",
+  "ral_isim": "COLZA YELLOW",
+  "base_no": "5",
+  "product": "PILOT QD TOPCOAT BASE 5 (18 LT)",
+  "formul": "WB002.55 WT040.7 YX008.95 - Jotun Formula",
+  "colorant_cost": "438.33",
+  "maliyet": "438.33",
+  "can_size": "18L",
+  "lt": 18
+},
+  {
+  "ral_no": "5012",
+  "ral_isim": "LIGHT BLUE",
+  "base_no": "3",
+  "product": "PILOT QD TOPCOAT BASE 3 (18 LT)",
+  "formul": "BL028.2 SB001.2 VL007.1 WT094.6 - Jotun Formula",
+  "colorant_cost": "1284.73",
+  "maliyet": "1284.73",
+  "can_size": "18L",
+  "lt": 18
+},
+  {
+  "ral_no": "1021",
+  "ral_isim": "COLZA YELLOW",
+  "base_no": "5",
+  "product": "CONSEAL TU BASE 5 (18 LT)",
+  "formul": "WB002.55 WT040.7 YX008.95 - Jotun Formula",
+  "colorant_cost": "438.33",
+  "maliyet": "438.33",
+  "can_size": "18L",
+  "lt": 18
+},
+  {
+  "ral_no": "5012",
+  "ral_isim": "LIGHT BLUE",
+  "base_no": "3",
+  "product": "CONSEAL TU BASE 3 (18 LT)",
+  "formul": "BL038.2 SB001.8 VL006.6 WT098.8 - Jotun Formula",
+  "colorant_cost": "1440.42",
+  "maliyet": "1440.42",
+  "can_size": "18L",
+  "lt": 18
+},
+  {
   "ral_no": "9010",
   "ral_isim": "REINWEISS",
   "base_no": "1",
