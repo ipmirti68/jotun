@@ -1,5 +1,27 @@
 [
    {
+  "ral_no": "9016",
+  "ral_isim": "TRAFFIC WHITE",
+  "base_no": "1",
+  "product": "CONSEAL TU BASE 1 (4,5 LT)",
+  "formul": "WB001.7 - Jotun Formula",
+  "colorant_cost": "2.59",
+  "maliyet": "2.59",
+  "can_size": "4,5L",
+  "lt": 4,5
+},
+   {
+  "ral_no": "7035",
+  "ral_isim": "LIGHT GREY",
+  "base_no": "1",
+  "product": "CONSEAL TU BASE 1 (4,5 LT)",
+  "formul": "GR000.72 SB004.72 YX003.28 - Jotun Formula",
+  "colorant_cost": "19.10",
+  "maliyet": "19.10",
+  "can_size": "4,5L",
+  "lt": 4,5
+},
+   {
   "ral_no": "1021",
   "ral_isim": "COLZA YELLOW",
   "base_no": "5",
