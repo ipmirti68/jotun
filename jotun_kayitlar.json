@@ -1,4 +1,16 @@
 [
+  {
+  "ral_no": "7035",
+  "ral_isim": "LIGHT GREY",
+  "base_no": "1",
+  "product": "PILOT QD TOPCOAT BASE 1 (18 LT)",
+  "formul": "WB004 SB004 YX002.5 - Jotun Formül",
+  "colorant_cost": "77.02",
+  "maliyet": "77.02",
+  "can_size": "18L",
+  "lt": 18
+},
+
 {
   "ral_no": "7016",
   "ral_isim": "ANTHRACITE GREY",
